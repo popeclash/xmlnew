@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mundiales_de_futbol SYSTEM "E:\ASIR\SGI\XML TRABAJO\xml\mundiales.dtd">
+<?xml-stylesheet href="../xslt/mundial90.xslt" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="../css/style.css"?>
+<mundiales_de_futbol>
+  <mundial>
+    <pais>Italia</pais>
+    <año>1990</año>
+    <ganador>Alemania</ganador>
+	  <mejor_jugador>Matthaus</mejor_jugador>
+  </mundial>
+</mundiales_de_futbol>

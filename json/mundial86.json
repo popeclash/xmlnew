@@ -1,0 +1,10 @@
+﻿{
+	"mundiales_de_futbol": {
+		"mundial": {
+			"pais": "Mexico",
+			"año": "1986",
+			"ganador": "Argentina",
+			"mejor_jugador": "Diego Maradona"
+		}
+	}
+}

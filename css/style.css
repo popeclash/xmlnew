@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+header {
+    background-image: url(../img/logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+;
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+header h1 {
+    font-family:'Teko', sans-serif;
+    margin-left: 725px;
+    font-size: 80px;
+    color: orange;
+    -webkit-text-stroke: 2px black;
+}
+
+nav {
+    background-color: white;
+    color: darkgray ;
+    height: 1.8em;
+    display: flex;
+    padding-left: 35%;
+    height: 50px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    position: relative;
+}
+
+.nav li a {
+    display: inline;
+    padding: 10px 15px;
+    background-color: white;
+    color: green;
+}
+
+.nav li a:hover {
+    background-color: green;
+    color: white;
+}
+
+.nav li ul {
+    display:none;
+}
+
+.nav:hover{
+    background-color: white;
+    color: black;
+}
+
+li{
+    display: inline;
+}
+
+.texto1 {
+    margin-left: 500px;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+
+.foto1 {
+    margin-right: 350px;
+    
+}
+main {
+    margin-top: 50px;
+}
+
+table{
+    color: white;
+    background-color: green;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 38%;
+    width: 30%;
+    border-collapse: collapse;
+}
+
+th{
+    font-family: 'Luckiest Guy', cursive;
+}
+
+td{
+    font-family: 'Lobster', cursive;
+}
+
+th, td {
+    border: solid 1px orange;
+    padding: 10px;
+} 
+
+thead {
+    background-color: orange;
+    color: black;
+  }
+
+td:hover {
+      background-color: goldenrod;
+}
+
+img{
+    margin-top: 3%;
+    margin-left: 41%;
+    border-radius: 2%;
+}

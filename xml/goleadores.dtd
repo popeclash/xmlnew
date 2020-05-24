@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (http://www.altova.com) -->
+<!ELEMENT top (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT goleador (top, nombre, total_goles)>
+<!ELEMENT total_goles (#PCDATA)>
+<!ELEMENT mundiales_de_futbol (goleador+)>

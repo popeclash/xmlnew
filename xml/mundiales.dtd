@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (http://www.altova.com) -->
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT ganador (#PCDATA)>
+<!ELEMENT mundial (pais, año, ganador, mejor_jugador)>
+<!ELEMENT mejor_jugador (#PCDATA)>
+<!ELEMENT mundiales_de_futbol (mundial)>

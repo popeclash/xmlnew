@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mundiales_de_futbol SYSTEM "E:\ASIR\SGI\XML TRABAJO\xml\mundiales.dtd">
+<?xml-stylesheet href="../xslt/mundial82.xslt" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="../css/style.css"?>
+<mundiales_de_futbol>
+	<mundial>
+		<pais>España</pais>
+		<año>1982</año>
+		<ganador>Italia</ganador>
+		<mejor_jugador>Paolo Rossi</mejor_jugador>
+	</mundial>
+</mundiales_de_futbol>

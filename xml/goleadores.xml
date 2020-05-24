@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mundiales_de_futbol SYSTEM "E:\ASIR\SGI\XML TRABAJO\xml\goleadores.dtd">
+<?xml-stylesheet href="../xslt/goleadores.xslt" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="../css/style.css"?>
+<mundiales_de_futbol>
+	<goleador>
+		<top>1</top>
+		<nombre>Miroslav Klose</nombre>
+		<total_goles>16</total_goles>
+	</goleador>
+	<goleador>
+		<top>2</top>
+		<nombre>Ronaldo</nombre>
+		<total_goles>15</total_goles>
+	</goleador>
+	<goleador>
+		<top>3</top>
+		<nombre>Gerd Müller</nombre>
+		<total_goles>14</total_goles>
+	</goleador>
+	<goleador>
+		<top>4</top>
+		<nombre>Just Fontaine</nombre>
+		<total_goles>13</total_goles>
+	</goleador>
+	<goleador>
+		<top>5</top>
+		<nombre>Pelé</nombre>
+		<total_goles>12</total_goles>
+	</goleador>
+	<goleador>
+		<top>6</top>
+		<nombre>Sándor Kocsis</nombre>
+		<total_goles>11</total_goles>
+	</goleador>
+	<goleador>
+		<top>7</top>
+		<nombre>Jürgen Klinsmann</nombre>
+		<total_goles>11</total_goles>
+	</goleador>
+	<goleador>
+		<top>8</top>
+		<nombre>Helmut Rahn</nombre>
+		<total_goles>10</total_goles>
+	</goleador>
+	<goleador>
+		<top>9</top>
+		<nombre>Gary Lineker</nombre>
+		<total_goles>10</total_goles>
+	</goleador>
+	<goleador>
+		<top>10</top>
+		<nombre>Gabriel Batistuta</nombre>
+		<total_goles>10</total_goles>
+	</goleador>
+</mundiales_de_futbol>

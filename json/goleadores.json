@@ -1,0 +1,56 @@
+{
+  "mundiales_de_futbol": {
+    "goleador": [
+      {
+        "top": "1",
+        "nombre": "Miroslav Klose",
+        "total_goles": "16"
+      },
+      {
+        "top": "2",
+        "nombre": "Ronaldo",
+        "total_goles": "15"
+      },
+      {
+        "top": "3",
+        "nombre": "Gerd Müller",
+        "total_goles": "14"
+      },
+      {
+        "top": "4",
+        "nombre": "Just Fontaine",
+        "total_goles": "13"
+      },
+      {
+        "top": "5",
+        "nombre": "Pelé",
+        "total_goles": "12"
+      },
+      {
+        "top": "6",
+        "nombre": "Sándor Kocsis",
+        "total_goles": "11"
+      },
+      {
+        "top": "7",
+        "nombre": "Jürgen Klinsmann",
+        "total_goles": "11"
+      },
+      {
+        "top": "8",
+        "nombre": "Helmut Rahn",
+        "total_goles": "10"
+      },
+      {
+        "top": "9",
+        "nombre": "Gary Lineker",
+        "total_goles": "10"
+      },
+      {
+        "top": "10",
+        "nombre": "Gabriel Batistuta",
+        "total_goles": "10"
+      }
+    ]
+  }
+}
